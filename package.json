@@ -1,0 +1,17 @@
+{
+  "name": "Simple-webApp",
+  "version": "1.0.0",
+  "description": "bot_shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "author": "BarFik",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "1.2.6",
+    "dotenv": "16.0.3",
+    "mysql2": "2.3.3",
+    "opengram": "0.0.1-beta.2"
+  }
+}

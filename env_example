@@ -1,0 +1,3 @@
+BOT_TOKEN='yourBotToken_givenFromBotfather'
+PROVIDER_TOKEN='yourPaymentProviderToken'
+
