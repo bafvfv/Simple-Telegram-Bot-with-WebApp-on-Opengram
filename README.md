@@ -12,4 +12,4 @@ If you want to try this shit, at first you must install [Node.js](https://github
 
 Also you must install [OpenServer](https://ospanel.io/) or [WAMP](https://www.wampserver.com/en/) to easy work with a MySQL database on your PC. 
 
-So, enjoy - it's ugly but it works:)
+Thanks for [BenjaminDusse](https://github.com/BenjaminDusse) 
