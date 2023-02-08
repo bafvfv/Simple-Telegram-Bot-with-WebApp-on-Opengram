@@ -20,7 +20,7 @@ $p5 = mysqli_fetch_assoc($res);
 </head>
 <body>
 <div class="container">
-	<h1 class="header">Pizzas</h1>
+	<h1 class="header">Beverages</h1>
 	<div class="multiple-items">
 		<div class="product-item">
 			<img src="<? echo $p1['pic'] ?>">
