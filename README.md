@@ -10,6 +10,6 @@ If you want to try this shit, at first you must install [Node.js](https://github
 >>>>> `npm i dotenv`
 >>>>>> `npm i nodemon`
 
-Also you must install [OpenServer](https://ospanel.io/) or [WAMP](https://www.wampserver.com/en/) to easy work with a MySQL database on your PC. 
+Also you must install [OpenServer](https://ospanel.io/) or [WAMP](https://www.wampserver.com/en/) to easily work with a MySQL database on your PC. 
 
 Thanks for [BenjaminDusse](https://github.com/BenjaminDusse) 
